@@ -1,7 +1,6 @@
 {
   "name": "mkcsv",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "csv-writer": "^1.2.0"
@@ -12,5 +11,14 @@
   },
   "keywords": [],
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
-  "license": "(Apache-2.0 AND MIT)"
+  "license": "(Apache-2.0 AND MIT)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeal/mkcsv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikeal/mkcsv/issues"
+  },
+  "homepage": "https://github.com/mikeal/mkcsv#readme",
+  "description": ""
 }
